@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  date: 2019-11-26
+  name: MyString
+  ismeteric: false
+  weight: 1
+  repsperformed: 1
+  onerm: 1
+
+two:
+  date: 2019-11-26
+  name: MyString
+  ismeteric: false
+  weight: 1
+  repsperformed: 1
+  onerm: 1
